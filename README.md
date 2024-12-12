@@ -52,6 +52,11 @@
 [![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PacemakerX&show_icons=true&line_height=29&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PacemakerX&layout=donut&exclude_repo=Space_Catalogue,Jupyter_Python&langs_count=5&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
 
+
+## Leet Code Stats
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" height="250"/>
+<img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" width="400" height="250"/>
+
 ## Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparshsoni)
