@@ -5,7 +5,7 @@
 ### I am a 3rd-year Computer Science student @ VIT, competitive programmer, Linux enthusiast 🐧, and shell scriptor. Passionate about algorithms, web development, and building cool projects. Always open to collaboration and innovative ideas! 🚀
 
 ### Feel free to connect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-maithani-103119228/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparshsoni) 
 
 
 ## 📊 GitHub Stats:
