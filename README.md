@@ -63,6 +63,13 @@
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" height="250"/>
 <img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" width="400" height="250"/>
 </p>
+
 ## Feel free to connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparshsoni)
+<a href="mailto:sparsh.officialwork@gmail.com">
+  <img src="https://img.shields.io/badge/-sparsh.officialwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"width="400" />
+</a>
+
+<a href="https://www.linkedin.com/in/sparshsoni">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="400"/>
+</a >
