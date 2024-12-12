@@ -5,7 +5,7 @@
 ### I am a 3rd-year Computer Science student @ VIT, competitive programmer, Linux enthusiast 🐧, and shell scriptor. Passionate about algorithms, web development, and building cool projects. Always open to collaboration and innovative ideas! 🚀
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" >
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="750" >
 
 
 ## 📊 GitHub Stats:
