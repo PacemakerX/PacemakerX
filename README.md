@@ -59,11 +59,11 @@
 
 ## Leet Code Stats
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" />
-  <br><br> <!-- Adds space between the two images -->
- <img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" alt="LeetCode Heatmap" width="400" />
+<p align="left">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" height="100%" />
+  <img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" alt="LeetCode Heatmap" width="400" />
 </p>
+
 
 ## Feel free to connect with me!
 
