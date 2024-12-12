@@ -59,18 +59,19 @@
 
 ## Leet Code Stats
 
-<p align="left">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" height="250"/>
-
-<img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" width="400" height="250"/>
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" />
+  <br><br> <!-- Adds space between the two images -->
+ <img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" alt="LeetCode Heatmap" width="400" />
 </p>
 
 ## Feel free to connect with me!
 
-<a href="mailto:sparsh.officialwork@gmail.com">
-  <img src="https://img.shields.io/badge/-sparsh.officialwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"width="400" />
-</a>
-
-<a href="https://www.linkedin.com/in/sparshsoni">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="400"/>
-</a >
+<p align="center">
+  <a href="mailto:sparsh.officialwork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sparsh.officialwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sparshsoni">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
