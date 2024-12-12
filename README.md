@@ -9,6 +9,7 @@
 ## ⚡ Technologies
 
 ### Languages :
+
  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="50" height="60"/>
@@ -20,6 +21,7 @@
 </p>
 
 ### Database & OS :
+
  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="50" height="60"/>
@@ -27,6 +29,7 @@
 </p>
 
 ### Tools & Editors :
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="nvim" width="50" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="50" height="60"/>
@@ -36,6 +39,7 @@
 </p>
 
 ### Frameworks & Libraries :
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="50" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="60"/>
@@ -43,6 +47,7 @@
 </p>
 
 ### Data Science & Notebooks :
+
   </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="60" />
  </p>
@@ -52,11 +57,12 @@
 [![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PacemakerX&show_icons=true&line_height=29&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PacemakerX&layout=donut&exclude_repo=Space_Catalogue,Jupyter_Python&langs_count=5&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
 
-
 ## Leet Code Stats
+
+<p align="left">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" height="250"/>
 <img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" width="400" height="250"/>
-
+</p>
 ## Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparshsoni)
