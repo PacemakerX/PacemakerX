@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,1,5,12,21&text=Hi%20There!&height=175&animation=twinkling&fontSize=75&reversal)
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=75&center=true&vCenter=true&width=850&height=200&duration=4000&lines=Namaste!;Hi+There!;¡Hola!;Konnichiwa!;Bonjour!&color=E0B0FF&background=0B0C10&containerColor=1A1A2E" alt="Greeting" />
+  </a>
+</p>
 
 ## Hi , I am Sparsh 👋, Let's explore what we have here ✨
 
