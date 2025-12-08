@@ -53,8 +53,8 @@
 
 ## 📊 GitHub Stats:
 
-[![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PacemakerX&show_icons=true&line_height=29&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PacemakerX&layout=donut&exclude_repo=Space_Catalogue,Jupyter_Python&langs_count=5&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
+[![Sparsh's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=PacemakerX&show_icons=true&line_height=29&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PacemakerX&layout=donut&exclude_repo=Space_Catalogue,Jupyter_Python&langs_count=5&theme=tokyonight)](https://github.com/PacemakerX/github-readme-stats)
 
 ## Leet Code Stats
 
